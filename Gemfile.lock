@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rools (0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rools
+
+BUNDLED WITH
+   1.10.6
